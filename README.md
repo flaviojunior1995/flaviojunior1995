@@ -12,7 +12,7 @@
 <div align="center">
     <img height="40" src="https://merch.mikrotik.com/cdn/shop/files/512.png?v=1657867177&width=500">
     &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-    <img height="50" src="https://banner2.cleanpng.com/20180712/lzf/kisspng-cisco-systems-business-organization-cisco-unified-pay-a-new-year-call-5b46e43a658b05.2227985915313726024159.jpg">
+    <img height="50" src="[https://banner2.cleanpng.com/20180712/lzf/kisspng-cisco-systems-business-organization-cisco-unified-pay-a-new-year-call-5b46e43a658b05.2227985915313726024159.jpg](https://icon-library.com/images/cisco-icon/cisco-icon-18.jpg)">
     &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
     <img height="50" src="https://image.similarpng.com/very-thumbnail/2020/06/Logo-huawei-vector-transparent-PNG.png">
     &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
