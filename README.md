@@ -12,7 +12,7 @@
 <div align="center">
     <img height="40" src="https://merch.mikrotik.com/cdn/shop/files/512.png?v=1657867177&width=500">
     &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-    <img height="50" src="https://icon-library.com/images/cisco-icon/cisco-icon-18.jpg">
+    <img height="60" src="https://icon-library.com/images/cisco-icon/cisco-icon-18.jpg">
     &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
     <img height="50" src="https://logospng.org/download/huawei/logo-huawei-256.png">
     &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
